@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://db77u3rypo821"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="felicitaciones" type="Label" parent="."]
+offset_left = 243.0
+offset_top = 92.0
+offset_right = 583.0
+offset_bottom = 216.0
+text = "felicidades :)"
